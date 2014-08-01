@@ -32,7 +32,7 @@ This extension requires Brackets Release 42 or newer.
 
 ### Please note… ###
 
-This is a work in progress, and I may well change the colours slightly form time to time. You are, of course, very welcome to clone this repo and make your own changes…
+This is a work in progress, and I may well change the colours slightly from time to time. You are, of course, very welcome to clone this repo and make your own changes…
 
 ### License ###
 
