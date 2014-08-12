@@ -34,6 +34,10 @@ This extension requires Brackets Release 42 or newer.
 
 This is a work in progress, and I may well change the colours slightly from time to time. You are, of course, very welcome to clone this repo and make your own changes…
 
+### Recommended typeface ###
+
+This theme looks great when when you use the new Input: Fonts for code from Font Bureau. Designed by David John Ross, these fonts are excellent for coding and are a delight to use day in, day out. I can't recommend them enough (no, I'm not being paid for this testimonial). You can get them for free (for personal use) from `http://input.fontbureau.com`. Read the Info section of the website too, as it's an incredible look at type for coding purposes.
+
 ### License ###
 
 The MIT License. Read [LICENSE](LICENSE) for further information.
